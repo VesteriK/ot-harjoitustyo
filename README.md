@@ -1,14 +1,7 @@
-# Lorem Ipsum
+# Ohjelmistotekniikka, harjoitustyö
 
+## Tehtävät
 
-
-Lorem ipsum dolor *sit* amet, consectetur adipiscing **elit**. Aliquam efficitur luctus eros sit amet sollicitudin. Donec lacus lectus, gravida eu tortor vitae, tempus faucibus elit. Nunc ut dictum nibh. Nulla condimentum, dui placerat tempus mattis, purus odio sollicitudin nunc, vitae fermentum nunc justo sit amet felis. Phasellus fringilla blandit felis ac viverra. Duis facilisis varius gravida. Phasellus dignissim commodo condimentum. Integer blandit eros nunc, vel vulputate arcu viverra id. Sed vel ex purus.
-
-Praesent elementum, enim et porta convallis, leo eros suscipit tellus, vitae hendrerit nisi ipsum et est. Nam elementum congue ipsum, vitae placerat tortor pretium vitae. Nam et consectetur arcu, sit amet volutpat sem. Aliquam vitae blandit arcu. **Lorem ipsum _dolor_ sit amet,** consectetur adipiscing elit. Aliquam ac dui eget risus vulputate varius. Sed molestie quis augue ut semper. Duis a urna scelerisque erat vestibulum pellentesque. Curabitur a dui diam. Quisque luctus tellus lectus, quis fermentum lorem bibendum id. Nulla lectus metus, aliquet id lectus sed, tincidunt condimentum ex.
-
-## Aliquam eu luctus nibh,
-nec suscipit justo. In interdum lectus et erat lobortis, a pretium felis vestibulum. Nulla dignissim velit nulla, eu viverra urna condimentum vitae. Fusce rhoncus felis at placerat accumsan. Quisque vestibulum semper felis, sed accumsan purus convallis vel. In scelerisque magna eleifend libero egestas egestas. Vestibulum faucibus auctor magna eu viverra. Mauris accumsan augue mi, eget tincidunt nibh pharetra vitae. Donec venenatis sem a ex cursus, ut finibus nunc lacinia. Quisque non lectus at sapien accumsan eleifend eu vel erat. Curabitur eu elit nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Maecenas eget rutrum **mauris**. Sed feugiat euismod erat, ut luctus turpis dictum nec. Aenean aliquam felis leo, vitae dapibus magna consequat non. Etiam feugiat mauris in quam pretium, non convallis nibh rhoncus. **Aliquam** luctus blandit rhoncus. Aliquam vel mi sapien. Ut vulputate fermentum lectus ac tristique.
-
-Suspendisse suscipit pulvinar sem, et pulvinar ipsum laoreet ac. Quisque vitae luctus felis. Integer ornare metus ut *mollis* ornare. Nam a dolor mi. Etiam non ante id quam interdum maximus efficitur ac ligula. Donec iaculis semper urna at mattis. Ut dapibus, velit sed consectetur imperdiet, quam lacus dignissim tortor, ac accumsan metus odio in justo. Nunc dui ligula, rhoncus nec ex quis, egestas imperdiet lectus. Duis elementum risus ac blandit euismod. Nulla lorem nisl, ornare quis neque sit amet, placerat gravida magna. Nullam auctor euismod felis. Sed rutrum tincidunt sapien ut dignissim. Nulla rutrum nunc et tellus auctor finibus. Proin feugiat luctus augue, a convallis magna porta non. 
+### Viikko 1
+[gitlog.txt](https://github.com/VesteriK/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)  
+[komentorivi.txt](https://github.com/VesteriK/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
