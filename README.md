@@ -7,3 +7,5 @@
 [komentorivi.txt](https://github.com/VesteriK/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 ### Viikko 2
+
+### Viikko 3
