@@ -1,6 +1,7 @@
 # Ohjelmistotekniikka, harjoitustyö
 
 ## Harjoitustyön dokumentaatio
+[Tuntikirjanpito](https://github.com/VesteriK/ot-harjoitustyo/blob/master/dokumentit/tuntikirjanpito.md)
 [Vaatimusmäärittely](https://github.com/VesteriK/ot-harjoitustyo/blob/master/dokumentit/vaatimusmaarittely.md)
 
 
