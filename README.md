@@ -1,5 +1,9 @@
 # Ohjelmistotekniikka, harjoitustyö
 
+## Harjoitustyön dokumentaatio
+[Vaatimusmäärittely](https://github.com/VesteriK/ot-harjoitustyo/blob/master/dokumentit/vaatimusmaarittely.md)
+
+
 ## Tehtävät
 
 ### Viikko 1
